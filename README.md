@@ -1,9 +1,9 @@
-forma de utilizar
+# Forma de utilizar
 
-//criar uma variavel do tipo :
+## criar uma variavel do tipo :
 
-$selects = new selectRecursive();
+## $selects = new selectRecursive();
 
-em seguida entrar com os dois parametros que são os arrays de pegunta e o segundo de resposta
+## Em seguida entrar com os dois parametros que são os arrays de pegunta e o segundo de resposta
 
-$selects->iginition(array, array);
+## $selects->iginition(array, array);
